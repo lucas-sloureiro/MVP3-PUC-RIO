@@ -1,6 +1,6 @@
-# Penguin Classifier
+# Classificador de Pingim
 
-Este projeto faz parte da entrega da sprint 4 do curso de pós graduação em **Engenharia de Software - PUC Rio** 
+Este projeto faz parte da entrega da sprint 3 do curso de pós graduação em **Engenharia de Software - PUC Rio** 
 
 O objetivo da aplicação é apresentar, em uma única tela interativa, as classificações de espécies de pinguins com base em características físicas coletadas e fornecidas para o modelo. A ideia é prever a qual espécie o pinguim está sendo catalogado.
 ---
